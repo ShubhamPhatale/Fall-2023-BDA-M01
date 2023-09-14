@@ -1,0 +1,153 @@
+Abolfazl  Asudeh   []
+
+John  Bell   ['Sample Exams, showing my exam philosophies, typical format, and some examples.', 'Archive of\xa0Java Games\xa0from EECS 370 Fall 2000 and Spring 2001 terms.', 'EECS 588, Computer Graphics I I, Spring 2000 Web Site Archive', 'Eng 591, Virtual Reality Programming, Fall 1999 Web Site Archive', 'A brief introduction to "make".', 'A collection of course & education related web links.']
+
+Gonzalo  Bello   []
+
+Daniel J. Bernstein   []
+
+Emanuelle  Burton   []
+
+Ugo  Buy   ['CS 100', 'CS 101', 'CS 201', 'CS 301', 'CS 342', 'CS 401', 'CS 440', 'CS 442', 'CS 474', 'CS 478', 'CS 540', 'CS 594']
+
+Cornelia  Caragea, PhD   []
+
+Jordan  Carson   []
+
+Anrin  Chakraborti   []
+
+Debaleena  Chattopadhyay   []
+
+Lu  Cheng   []
+
+Kristel  Clayville   []
+
+Cody  Cranch   []
+
+Bhaskar  DasGupta   []
+
+Drishika  Dey   []
+
+Barbara  Di Eugenio   []
+
+Diana  Diaz   []
+
+Jakob  Eriksson, Ph.D.   []
+
+Piotr  Gmytrasiewicz   []
+
+Mark  Grechanik   []
+
+Mark  Hallenbeck   []
+
+David  Hayes   []
+
+Mark  Hodges   []
+
+Omar  Ibrahim   []
+
+Andrew  Johnson   []
+
+Chris  Kanich   []
+
+Ian  Kash   []
+
+Zoa  Katok   []
+
+Andruid  Kerne   []
+
+Ellen  Kidane   []
+
+Adam  Koehler   []
+
+Ajay  Kshemkalyani   []
+
+Sidharth  Kumar   []
+
+Zhiling  Lan   []
+
+John  Lillis   []
+
+Bing  Liu   []
+
+Leilah  Lyons   []
+
+William  Mansky   []
+
+G. Elisabeta Marai   ['Undergraduate Resources', 'Graduate Resources', 'Faculty Resources', 'ABET Accreditation']
+
+George  Maratos   []
+
+Evan  McCarty   []
+
+Sourav  Medya   []
+
+Joseph E Michaelis   []
+
+Fabio  Miranda   []
+
+Peter  Nelson   []
+
+Ethan  Ordentlich   []
+
+Michael E. Papka   []
+
+Natalie  Parde, PhD   []
+
+Luis  Pina   []
+
+Jason  Polakis   []
+
+Sathya  Ravi   []
+
+Shanon  Reckinger   []
+
+Scott   Reckinger   []
+
+Dale  Reed   []
+
+Luc  Renambot   []
+
+Sara  Riazi   []
+
+Pedram  Rooshenas   []
+
+Anastasios  Sidiropoulos   []
+
+Stavros  Sintos   []
+
+Aravinda Prasad Sistla   []
+
+Robert  Sloan   []
+
+Jon  Solworth   []
+
+Nikita  Soni   []
+
+Xiaorui  Sun   []
+
+Wei  Tang   []
+
+Mitchell  Theys   []
+
+Patrick  Troy   []
+
+Balajee  Vamanan   []
+
+V. N. Venkatakrishnan   []
+
+Xiaoguang  Wang   []
+
+Ouri  Wolfson   []
+
+Shweta  Yadav   []
+
+Philip S. Yu   []
+
+Xinhua  Zhang   []
+
+Elena  Zheleva   []
+
+Brian  Ziebart   []
+
+Lenore  Zuck   []
