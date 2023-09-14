@@ -1,0 +1,155 @@
+Abolfazl  Asudeh   Abolfazl Asudeh is an assistant professor of Computer Science at the University of Illinois Chicago and the director of Innovative Data Exploration Laboratory (InDeX Lab). He is a VLDB Ambassador, and a regular PC member of Database flagship venues.
+His research spans to different aspects of Big Data and Data Science, including Data Management, Information Retrieval, and Data Mining, for which he designs efficient, accurate, and scalable algorithmic solutions. Data Equity Systems, Algorithmic Fairness, and Data-centric AI are his major focus in research. His research interest also includes: Ranking, Social Networks Analysis, Large-Scale Computation on Limited Resources, Computational Fact Checking, Data management for Machine Learning, Web Databases, and applied Computational Geometry.    []
+
+John  Bell       ['Sample Exams, showing my exam philosophies, typical format, and some examples.', 'Archive of\xa0Java Games\xa0from EECS 370 Fall 2000 and Spring 2001 terms.', 'EECS 588, Computer Graphics I I, Spring 2000 Web Site Archive', 'Eng 591, Virtual Reality Programming, Fall 1999 Web Site Archive', 'A brief introduction to "make".', 'A collection of course & education related web links.']
+
+Gonzalo  Bello       []
+
+Daniel J. Bernstein       []
+
+Emanuelle  Burton       []
+
+Ugo  Buy   My research interests are in the general area of software engineering with emphasis on modeling and analysis of concurrent and real-time systems. In the past, I have investigated various methods for automatic verification of these systems using such models as finite automata and Petri nets. In recent years, I have shifted my main research focus to the automatic generation of control supervisors for discrete manufacturing systems. For instance, I codirected NIST-sponsored project seeking to generate automatically supervisory controllers for discrete manufacturing plants. More generally, I am now interested in techniques for supervisory control and dynamic reconfiguration of discrete event systems. An additional application is the automatic correction of multi-threaded Java programs required to be free of deadlock and to comply with user-specified safety properties. Additional interests include software development for multicore hardware, mobile app development, and sensor networks.    ['CS 100', 'CS 101', 'CS 201', 'CS 301', 'CS 342', 'CS 401', 'CS 440', 'CS 442', 'CS 474', 'CS 478', 'CS 540', 'CS 594']
+
+Cornelia  Caragea, PhD       []
+
+Jordan  Carson   I'm an educator with over 10 years of experience and a passion for working for social justice and learning about other cultures. I believe in making learning an enjoyable, safe, and accessible experience.    []
+
+Anrin  Chakraborti   I build secure systems and protocols that incorporate cryptographic tools to solve real-world problems. My research lies in the intersection of cryptography, systems and theory, Some of the questions that I am exploring through my current research are: i) how can we scale cryptographic tools to handle new data types and computational tasks in cloud and big data settings?, ii) how can we optimize cryptographic protocols to enable reliable and private communication between low-resource devices, e.g., cyber-physical systems?, and iii) how do we make private end-to-end communication (and storage) truly private in the face of intrusive privacy laws, censorship, coercion and backdoors?    []
+
+Debaleena  Chattopadhyay       []
+
+Lu  Cheng       []
+
+Kristel  Clayville       []
+
+Cody  Cranch       []
+
+Bhaskar  DasGupta   I am a Professor in the Computer Science department at University of Illinois at Chicago (UIC). I am also an adjunct faculty at the Bioengineering department in UIC. My research interests span several areas such as Theoretical Computer Science/Discrete Mathematics/Algorithms, Computational Biology, Computational Geometry and Computational Finance. I received the NSF CAREER award in 2004 and the UIC College of Engineering Teaching Award in 2012. I thankfully acknowledge generous support from the National Science Foundation (NSF) for my research activities.    []
+
+Drishika  Dey   I am a Professor in the Computer Science department at University of Illinois at Chicago (UIC). I am also an adjunct faculty at the Bioengineering department in UIC. My research interests span several areas such as Theoretical Computer Science/Discrete Mathematics/Algorithms, Computational Biology, Computational Geometry and Computational Finance. I received the NSF CAREER award in 2004 and the UIC College of Engineering Teaching Award in 2012. I thankfully acknowledge generous support from the National Science Foundation (NSF) for my research activities.    []
+
+Barbara  Di Eugenio   I am a Professor in the department of Computer Science at the University of Illinois at Chicago    []
+
+Diana  Diaz       []
+
+Jakob  Eriksson, Ph.D.   I grew up in Sweden, got my M.Sc. in CS at the Royal Institute of Technology in Stockholm. Wasted a few years on dot-coms, before graduating with a Ph.D. from U.C. Riverside in '06. I then spent a two-year postdoc at MIT. I've been a faculty member of the UIC Department of Computer Science since 2009, and was promoted to Associate Professor in 2015.    []
+
+Piotr  Gmytrasiewicz   I am an associate professor at the Department of Computer Science, the University of Illinois at Chicago. I am a part of the Artificial Intelligence Laboratory at UIC, and I am leading the Multiagent Systems Group.    []
+
+Mark  Grechanik   Dr. Grechanik teaches at the department of computer science of the University of Illinois Chicago. His research area is software systems in general, with particular interests in security and software quality assurance.Dr.Grechanik earned his Ph.D. in Computer Science from the department of Computer Sciences of the University of Texas at Austin. In parallel with his academic activities, he has worked for over 30 years as a software consultant for startups and Fortune 500 companies. Dr.Grechanik is a recipient of best paper awards from competitive conferences, his research is funded by NSF and Microsoft, it is supported by Grammatech, and he holds many patents. His ideas are implemented and used by different companies and organizations.  Dr. Grechanik’s publication record can be viewed at DBLP, Semantic Scholar, and Google Scholar. He is a senior member of ACM and a senior member of IEEE and he was elected and he served for nine years as a member-at-large of the ACM SigSoft executive committee. Dr.Grechanik was the General Chair in 2016 of the IEEE International Conference on Software Testing, Verification and Validation (ICST ’16), the premier conference in all areas related to software quality, he was elected to serve on the ICST Steering Committee, and he served on the Editorial board of the Springer Empirical Software Engineering Journal.    []
+
+Mark  Hallenbeck   As a Lecturer in the UIC Computer Science Department, I teach in the general area of software engineering. Previous courses taught include:    []
+
+David  Hayes       []
+
+Mark  Hodges       []
+
+Omar  Ibrahim       []
+
+Andrew  Johnson   Dr. Andrew Johnson is Director of Research at the Electronic Visualization Laboratory and an Associate Professor of Computer Science at the University of Illinois at Chicago.    []
+
+Chris  Kanich       []
+
+Ian  Kash       []
+
+Zoa  Katok       []
+
+Andruid  Kerne   Andruid Kerne is a transdisciplinary human-computer interaction researcher and educator focused on creativity, design, embodiment, participation, social media, and inclusion. From 2019-2022, he was a program director in the Information and Intelligent Systems division of the National Science Foundation, where he co-directed research funding programs in research funding programs in HCC—CAREER, CRII, Core Small, and Core Medium—Cyberlearning/Emerging Technologies for Teaching and Learning (RETTL), Future of Work at the Human-Technology Frontier, Ethical and Responsible Research (ER2), CISE Community Research Infrastructure (CCRI), and RAPID COVID-19.    []
+
+Ellen  Kidane   Andruid Kerne is a transdisciplinary human-computer interaction researcher and educator focused on creativity, design, embodiment, participation, social media, and inclusion. From 2019-2022, he was a program director in the Information and Intelligent Systems division of the National Science Foundation, where he co-directed research funding programs in research funding programs in HCC—CAREER, CRII, Core Small, and Core Medium—Cyberlearning/Emerging Technologies for Teaching and Learning (RETTL), Future of Work at the Human-Technology Frontier, Ethical and Responsible Research (ER2), CISE Community Research Infrastructure (CCRI), and RAPID COVID-19.    []
+
+Adam  Koehler   Andruid Kerne is a transdisciplinary human-computer interaction researcher and educator focused on creativity, design, embodiment, participation, social media, and inclusion. From 2019-2022, he was a program director in the Information and Intelligent Systems division of the National Science Foundation, where he co-directed research funding programs in research funding programs in HCC—CAREER, CRII, Core Small, and Core Medium—Cyberlearning/Emerging Technologies for Teaching and Learning (RETTL), Future of Work at the Human-Technology Frontier, Ethical and Responsible Research (ER2), CISE Community Research Infrastructure (CCRI), and RAPID COVID-19.    []
+
+Ajay  Kshemkalyani       []
+
+Sidharth  Kumar   My research aims to provide a comprehensive framework for high-performance data management, critical in extracting meaningful insights from large and complex computational systems. Broadly, I have an interest in developing scalable algorithms and data structures that can inject interactivity and performance into data- and compute-intensive applications. My core expertise is HPC, but my overall research relies on the effective use of techniques from a range of areas including databases, topology, visualization, and machine learning.    []
+
+Zhiling  Lan   Zhiling Lan joined Department of Computer Science, University of Illinois Chicago in August 2023.    []
+
+John  Lillis       []
+
+Bing  Liu   Bing Liu is a distinguished professor of Computer Science at the University of Illinois at Chicago (UIC). He received his Ph.D. in Artificial Intelligence (AI) from the University of Edinburgh. Before joining UIC, he was a faculty member at the School of Computing, National University of Singapore (NUS). His research interests include sentiment analysis, lifelong learning, chatbot, natural language processing (NLP), data mining, machine learning, and AI. He has published extensively in top conferences and journals (his Google Scholar page). Three of his papers have received Test-of-Time awards: two from SIGKDD (ACM Special Interest Group on Knowledge Discovery and Data Mining), and one from WSDM (ACM International Conference on Web Search and Data Mining). He is also a recipient of ACM SIGKDD Innovation Award (the most prestigious technical award from SIGKDD). He has also authored four books: two on sentiment analysis, one on lifelong learning, and one on Web mining. Some of his work has been widely reported in the international press, including a front-page article in the New York Times. On professional services, he has served as the Chair of ACM SIGKDD from 2013-2017, as program chair of many leading data mining conferences, including KDD, ICDM, CIKM, WSDM, SDM, and PAKDD, as associate editor of leading journals such as TKDE, TWEB, DMKD and TKDD, and as area chair or senior PC member of numerous NLP, AI, Web, and data mining conferences. He is a Fellow of the ACM, AAAI, and IEEE.    []
+
+Leilah  Lyons       []
+
+William  Mansky       []
+
+G. Elisabeta Marai       ['Undergraduate Resources', 'Graduate Resources', 'Faculty Resources', 'ABET Accreditation']
+
+George  Maratos       []
+
+Evan  McCarty       []
+
+Sourav  Medya       []
+
+Joseph E Michaelis   My research sits at the nexus of learning sciences and human-computer interaction (HCI) disciplines.    []
+
+Fabio  Miranda   I am interested in developing techniques that allow for the interactive visual analysis of large-scale data, combining methods from visualization, data management, machine learning, and computer graphics. In particular, I focus on how visual data analytics can help address different problems cities face by integrating data on different resolutions and from different sources.    []
+
+Peter  Nelson       []
+
+Ethan  Ordentlich       []
+
+Michael E. Papka       []
+
+Natalie  Parde, PhD       []
+
+Luis  Pina       []
+
+Jason  Polakis        []
+
+Sathya  Ravi        []
+
+Shanon  Reckinger       []
+
+Scott   Reckinger       []
+
+Dale  Reed       []
+
+Luc  Renambot       []
+
+Sara  Riazi       []
+
+Pedram  Rooshenas       []
+
+Anastasios  Sidiropoulos       []
+
+Stavros  Sintos   Stavros Sintos is an Assistant Professor in the Department of Computer Science at the University of Illinois Chicago. Before joining UIC, he was a Postdoctoral Scholar on Data Management at the University of Chicago working with Asst. Prof. Sanjay Krishnan and Prof. Michael Franklin. He obtained his Ph.D. in Computer Science at Duke University under the supervision of Prof. Pankaj K. Agarwal. He also obtained his B.S. in the Department of Computer Science at the University of Ioannina in Greece. He is a recipient of the James B. Duke Fellowship, and he was nominated for the 2019-2020 outstanding Ph.D. dissertation award for his thesis titled “Efficient Algorithms for Querying Large and Uncertain Data”. His main research interest is in the design of efficient algorithms for problems in databases, data mining, and data management. In particular, he works on designing practical geometric indexes with theoretical guarantees focusing on approximate query processing, top-k queries, summarization queries, and join queries. His work has been published in top-tier conferences and journals such as VLDB, SIGMOD, ICDE, PODS, ICALP, JCSS. For more details, please visit stavrossintos.info    []
+
+Aravinda Prasad Sistla       []
+
+Robert  Sloan       []
+
+Jon  Solworth       []
+
+Nikita  Soni   Nikita Soni, Ph.D. is an assistant professor in the Department of Computer Science at the University of Illinois Chicago. She earned a Bachelor of Technology (B.Tech) degree in Electronics and Communications (Jaypee University of Engineering and Technology, 2015), a Master of Science (MS) degree in Computer Science (University of Florida, 2016), and a Ph.D. in Human-Centered Computing (University of Florida, 2021).    []
+
+Xiaorui  Sun   I am an assistant professor in the Computer Science Department of University of Illinois at Chicago.    []
+
+Wei  Tang   My research interests are in computer vision, pattern recognition and machine learning.    []
+
+Mitchell  Theys   I am currently interested in Improving the Undergraduate Experience.    []
+
+Patrick  Troy       []
+
+Balajee  Vamanan   I got my bachelor’s degree from Birla Institute of Science & Tech. (BITS), Pilani  in India. Before starting my Ph.D., I worked for a few years as a hardware design engineer at Nvidia Corporation. During this time, I was fortunate to lead the design of the memory system for the first unibody MacBook Air! But I wanted to do more open-ended research and made a transition back to academia by joining the Ph.D. program at Purdue University. I graduated with a Ph.D. from Purdue University and joined UIC in the October of 2015 as an Assistant Professor.  I spent the summer and fall of 2012 at Google on datacenter congestion control and load balancing.    []
+
+V. N. Venkatakrishnan   My research areas broadly span topics in Computer Systems Security, with use of ideas from compilers, operating systems and formal methods for defending cyber attacks.    []
+
+Xiaoguang  Wang   I work on system and software security projects, including system software support for heterogeneous CPU architectures and software system security. My past projects also include building secure systems on (with) virtualization, operating system kernel, and compiler.    []
+
+Ouri  Wolfson   Ouri Wolfson's main research interests are in database systems, distributed systems, and mobile/pervasive computing. He received his B.A. degree in mathematics, and his Ph.D. degree in computer science from Courant Institute of Mathematical Sciences, New York University. He is currently the Richard and Loan Hill Professor of Computer Science at the University of Illinois at Chicago, and an Affiliate Professor in the Department of Computer Science at the University of Illinois at Urbana Champaign. He is the founder of Mobitrac, a high-tech startup that was acquired by Fluensee Co. in 2006; and the founder and president of Pirouette Software Inc. which specializes in mobile data management. He served as a consultant to Argonne National Laboratory, US Army Research Laboratories, DARPA, and NASA. Before joining the University of Illinois he has been on the computer science faculty at the Technion and Columbia University, and a Member of Technical Staff at Bell Laboratories.    []
+
+Shweta  Yadav   Ouri Wolfson's main research interests are in database systems, distributed systems, and mobile/pervasive computing. He received his B.A. degree in mathematics, and his Ph.D. degree in computer science from Courant Institute of Mathematical Sciences, New York University. He is currently the Richard and Loan Hill Professor of Computer Science at the University of Illinois at Chicago, and an Affiliate Professor in the Department of Computer Science at the University of Illinois at Urbana Champaign. He is the founder of Mobitrac, a high-tech startup that was acquired by Fluensee Co. in 2006; and the founder and president of Pirouette Software Inc. which specializes in mobile data management. He served as a consultant to Argonne National Laboratory, US Army Research Laboratories, DARPA, and NASA. Before joining the University of Illinois he has been on the computer science faculty at the Technion and Columbia University, and a Member of Technical Staff at Bell Laboratories.    []
+
+Philip S. Yu   Philip S. Yu's main research interests include big data, data mining (especially on graph/network mining), social network, privacy preserving data publishing, data stream, database systems, and Internet applications and technologies. He is a Disthinguished Professor in the Department of Computer Science at UIC and also holds the Wexler Chair in Information and Technology. Before joining UIC, he was with IBM Thomas J. Watson Research Center, where he was manager of the Software Tools and Techniques department. Dr. Yu has published more than 970 papers in refereed journals and conferences with more than 74,500 citations and an H-index of 127. He holds or has applied for more than 300 US patents.    []
+
+Xinhua  Zhang       []
+
+Elena  Zheleva       []
+
+Brian  Ziebart   I am primarily interested in machine learning and its applications to problems in robotics, assistive technologies, and human-computer interaction. I develop and apply new techniques for predicting structured data. I was awarded a Ph.D. in Machine Learning from Carnegie Mellon University in 2010.    []
+
+Lenore  Zuck       []
+
